@@ -1,3 +1,5 @@
+mod box_demo;
+
 fn main() {
-    println!("Hello, world!");
+    box_demo::run();
 }
